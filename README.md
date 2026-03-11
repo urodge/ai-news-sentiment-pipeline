@@ -274,6 +274,6 @@ Tests run automatically via **GitHub Actions** on every push to `main`.
 
 ## 📬 Contact
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Uddhav Rodge** — [LinkedIn](https://linkedin.com/in/uddhav-rodge-1501b7274) · [GitHub](https://github.com/urodge)
 
 *Part of a portfolio series built while learning data engineering and automation engineering.*
