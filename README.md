@@ -268,7 +268,7 @@ Tests run automatically via **GitHub Actions** on every push to `main`.
 
 ## 🔗 Related Projects
 
-- 📦 [Project 1 — Weather ETL Pipeline](https://github.com/YOUR_USERNAME/dataflow-automation-hub) — the foundational ETL project this builds on
+- 📦 [Project 1 — Weather ETL Pipeline]([https://github.com/YOUR_USERNAME/dataflow-automation-hub](https://github.com/urodge/ai-news-sentiment-pipeline)) — the foundational ETL project this builds on
 
 ---
 
